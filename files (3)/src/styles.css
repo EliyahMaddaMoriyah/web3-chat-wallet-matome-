@@ -1,0 +1,4 @@
+body { font-family: Inter, Arial, sans-serif; background: #f7f8fa; color: #111; }
+h1, h3, h4 { margin: 8px 0; }
+input { padding: 6px 8px; border: 1px solid #ddd; border-radius: 6px; }
+button { padding: 6px 10px; border-radius: 6px; border: 1px solid #ccc; background: #fff; cursor: pointer; }
